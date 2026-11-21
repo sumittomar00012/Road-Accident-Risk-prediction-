@@ -24,8 +24,5 @@ Compared against a simple hand-written rule.
 - The live sensor feed is simulated. Real ESP32/Arduino input is future work.
 - Random split, not time-based.
 
-## Live dashboard
-PASTE YOUR STREAMLIT LINK HERE
+## Live dashboards 
 
-## GitHub
-PASTE YOUR GITHUB LINK HERE
